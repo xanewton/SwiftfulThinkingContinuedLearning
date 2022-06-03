@@ -13,6 +13,7 @@
 		464A8D0A284A4A2400E103EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D09284A4A2400E103EE /* Preview Assets.xcassets */; };
 		464A8D12284A4AA000E103EE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D10284A4AA000E103EE /* README.md */; };
 		464A8D13284A4AA000E103EE /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D11284A4AA000E103EE /* LICENSE.txt */; };
+		4669C948284AC04E00BBA889 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4669C947284AC04E00BBA889 /* MagnificationGestureBootcamp.swift */; };
 		46C8A552284A5751000D8E06 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +25,7 @@
 		464A8D09284A4A2400E103EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		464A8D10284A4AA000E103EE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		464A8D11284A4AA000E103EE /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		4669C947284AC04E00BBA889 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 				464A8D06284A4A2400E103EE /* Assets.xcassets */,
 				464A8D08284A4A2400E103EE /* Preview Content */,
 				46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */,
+				4669C947284AC04E00BBA889 /* MagnificationGestureBootcamp.swift */,
 			);
 			path = SwiftfulThinkingContinuedLearning;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				464A8D05284A4A2200E103EE /* ContentView.swift in Sources */,
 				464A8D03284A4A2200E103EE /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
+				4669C948284AC04E00BBA889 /* MagnificationGestureBootcamp.swift in Sources */,
 				46C8A552284A5751000D8E06 /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

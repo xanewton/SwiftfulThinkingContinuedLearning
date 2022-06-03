@@ -14,10 +14,10 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 ## Notes 
 - Requirement [SwiftfulThinking Bootcamp](https://www.youtube.com/watch?v=-Yp0LS61Nxk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO) 
 
-- I should work in iOS14
+- It should work in iOS14
 
-- Status: Lesson #2
-  https://www.youtube.com/watch?v=Ioux-yqewNs&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=2
+- Status: Lesson #3
+  https://www.youtube.com/watch?v=RkfJoNzfJ8w&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=3
 
 
 

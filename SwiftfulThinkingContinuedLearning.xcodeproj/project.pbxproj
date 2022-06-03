@@ -11,6 +11,8 @@
 		464A8D05284A4A2200E103EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464A8D04284A4A2200E103EE /* ContentView.swift */; };
 		464A8D07284A4A2400E103EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D06284A4A2400E103EE /* Assets.xcassets */; };
 		464A8D0A284A4A2400E103EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D09284A4A2400E103EE /* Preview Assets.xcassets */; };
+		464A8D12284A4AA000E103EE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D10284A4AA000E103EE /* README.md */; };
+		464A8D13284A4AA000E103EE /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D11284A4AA000E103EE /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		464A8D04284A4A2200E103EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		464A8D06284A4A2400E103EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		464A8D09284A4A2400E103EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		464A8D10284A4AA000E103EE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		464A8D11284A4AA000E103EE /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,8 @@
 		464A8CF6284A4A2200E103EE = {
 			isa = PBXGroup;
 			children = (
+				464A8D11284A4AA000E103EE /* LICENSE.txt */,
+				464A8D10284A4AA000E103EE /* README.md */,
 				464A8D01284A4A2200E103EE /* SwiftfulThinkingContinuedLearning */,
 				464A8D00284A4A2200E103EE /* Products */,
 			);
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				464A8D13284A4AA000E103EE /* LICENSE.txt in Resources */,
+				464A8D12284A4AA000E103EE /* README.md in Resources */,
 				464A8D0A284A4A2400E103EE /* Preview Assets.xcassets in Resources */,
 				464A8D07284A4A2400E103EE /* Assets.xcassets in Resources */,
 			);

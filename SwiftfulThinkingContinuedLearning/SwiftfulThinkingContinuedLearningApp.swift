@@ -13,7 +13,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
         WindowGroup {
             //LongPressGestureBootcamp()
             //DragGestureBootcamp2()
-            ScrollViewReaderBootcamp()
+            //ScrollViewReaderBootcamp()
+            GeometryReaderBootcamp()
         }
     }
 }

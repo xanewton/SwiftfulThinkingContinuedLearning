@@ -21,6 +21,10 @@
 		46B04BBA284BB6560012B0D9 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B04BB9284BB6560012B0D9 /* GeometryReaderBootcamp.swift */; };
 		46B04BBC284BF37B0012B0D9 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B04BBB284BF37B0012B0D9 /* MultipleSheetsBootcamp.swift */; };
 		46B04BBE284C0D3D0012B0D9 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B04BBD284C0D3D0012B0D9 /* MaskBootcamp.swift */; };
+		46B04BC0284C15850012B0D9 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B04BBF284C15840012B0D9 /* SoundsBootcamp.swift */; };
+		46B04BC5284C16B70012B0D9 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 46B04BC2284C16B70012B0D9 /* tada.mp3 */; };
+		46B04BC6284C16B70012B0D9 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 46B04BC3284C16B70012B0D9 /* badum.mp3 */; };
+		46B04BC7284C16B70012B0D9 /* moo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 46B04BC4284C16B70012B0D9 /* moo.mp3 */; };
 		46C8A552284A5751000D8E06 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +44,10 @@
 		46B04BB9284BB6560012B0D9 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		46B04BBB284BF37B0012B0D9 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		46B04BBD284C0D3D0012B0D9 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		46B04BBF284C15840012B0D9 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		46B04BC2284C16B70012B0D9 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		46B04BC3284C16B70012B0D9 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
+		46B04BC4284C16B70012B0D9 /* moo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moo.mp3; sourceTree = "<group>"; };
 		46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +96,8 @@
 				46B04BB9284BB6560012B0D9 /* GeometryReaderBootcamp.swift */,
 				46B04BBB284BF37B0012B0D9 /* MultipleSheetsBootcamp.swift */,
 				46B04BBD284C0D3D0012B0D9 /* MaskBootcamp.swift */,
+				46B04BBF284C15840012B0D9 /* SoundsBootcamp.swift */,
+				46B04BC1284C16A50012B0D9 /* Sounds */,
 			);
 			path = SwiftfulThinkingContinuedLearning;
 			sourceTree = "<group>";
@@ -98,6 +108,16 @@
 				464A8D09284A4A2400E103EE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		46B04BC1284C16A50012B0D9 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				46B04BC3284C16B70012B0D9 /* badum.mp3 */,
+				46B04BC4284C16B70012B0D9 /* moo.mp3 */,
+				46B04BC2284C16B70012B0D9 /* tada.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,8 +178,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46B04BC6284C16B70012B0D9 /* badum.mp3 in Resources */,
 				464A8D13284A4AA000E103EE /* LICENSE.txt in Resources */,
+				46B04BC5284C16B70012B0D9 /* tada.mp3 in Resources */,
 				464A8D12284A4AA000E103EE /* README.md in Resources */,
+				46B04BC7284C16B70012B0D9 /* moo.mp3 in Resources */,
 				464A8D0A284A4A2400E103EE /* Preview Assets.xcassets in Resources */,
 				464A8D07284A4A2400E103EE /* Assets.xcassets in Resources */,
 			);
@@ -172,6 +195,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46B04BC0284C15850012B0D9 /* SoundsBootcamp.swift in Sources */,
 				4669C94E284AD96400BBA889 /* DragGestureBootcamp2.swift in Sources */,
 				46B04BBE284C0D3D0012B0D9 /* MaskBootcamp.swift in Sources */,
 				4669C94C284ACE1B00BBA889 /* DragGestureBootcamp.swift in Sources */,

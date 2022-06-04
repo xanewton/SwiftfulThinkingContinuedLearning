@@ -14,7 +14,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
             //LongPressGestureBootcamp()
             //DragGestureBootcamp2()
             //ScrollViewReaderBootcamp()
-            GeometryReaderBootcamp()
+            //GeometryReaderBootcamp()
+            HapticsBootcamp()
         }
     }
 }

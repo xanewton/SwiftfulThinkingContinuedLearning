@@ -16,8 +16,8 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 
 - It should work in iOS14
 
-- Status: Lesson #13
-  https://www.youtube.com/watch?v=Oxc4dCtHPkk&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=13
+- Status: Lesson #14
+  https://www.youtube.com/watch?v=F-gUZztPTgI&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=14
 
 
 

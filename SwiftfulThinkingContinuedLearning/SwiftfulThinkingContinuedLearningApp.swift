@@ -16,7 +16,8 @@ struct SwiftfulThinkingContinuedLearningApp: App {
             //ScrollViewReaderBootcamp()
             //GeometryReaderBootcamp()
             //HapticsBootcamp()
-            LocalNotificationsBootcamp()
+            //LocalNotificationsBootcamp()
+            CoreDataBootcamp()
         }
     }
 }

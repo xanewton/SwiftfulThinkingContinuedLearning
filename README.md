@@ -2,9 +2,9 @@
 
 [SwiftUI Continued Learning (Intermediate level)](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar)  
 
-![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-04at10.04.21.png)
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-04at10.04.35.png)
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-04at10.04.56.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone13mini-2022-06-08at23.13.24.png)
 
 The SwiftUI Bootcamp is a free online course to help iOS developers improve their skills with more advanced components and techniques.
 Some of the topics we will cover include: custom gestures, downloading data from the internet, saving data with core data and more.
@@ -16,8 +16,8 @@ From [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking)
 
 - It should work in iOS14
 
-- Status: Lesson #17
-  https://www.youtube.com/watch?v=huRKU-TAD3g&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=17
+- Status: Lesson #18
+  https://www.youtube.com/watch?v=jEpg2SYvVV8&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&index=18
 
 
 

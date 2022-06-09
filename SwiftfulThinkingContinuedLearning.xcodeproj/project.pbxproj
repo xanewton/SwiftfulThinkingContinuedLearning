@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4637C1F32851846000FC9A98 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4637C1F22851846000FC9A98 /* CoreDataRelationshipsBootcamp.swift */; };
+		4637C1F6285186A600FC9A98 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4637C1F4285186A600FC9A98 /* CoreDataContainer.xcdatamodeld */; };
 		464A8D03284A4A2200E103EE /* SwiftfulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464A8D02284A4A2200E103EE /* SwiftfulThinkingContinuedLearningApp.swift */; };
 		464A8D05284A4A2200E103EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464A8D04284A4A2200E103EE /* ContentView.swift */; };
 		464A8D07284A4A2400E103EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464A8D06284A4A2400E103EE /* Assets.xcassets */; };
@@ -35,6 +37,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4637C1F22851846000FC9A98 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
+		4637C1F5285186A600FC9A98 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		464A8CFF284A4A2200E103EE /* SwiftfulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		464A8D02284A4A2200E103EE /* SwiftfulThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		464A8D04284A4A2200E103EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -115,7 +119,9 @@
 				46684CE8284D2C040018A87E /* HashabeBootcamp.swift */,
 				46684CEA284D353C0018A87E /* ArraysBootcamp.swift */,
 				46AD39E128503CAE001C3B96 /* CoreDataBootcamp.swift */,
+				4637C1F22851846000FC9A98 /* CoreDataRelationshipsBootcamp.swift */,
 				46AD39E328503E56001C3B96 /* FruitsContainer.xcdatamodeld */,
+				4637C1F4285186A600FC9A98 /* CoreDataContainer.xcdatamodeld */,
 			);
 			path = SwiftfulThinkingContinuedLearning;
 			sourceTree = "<group>";
@@ -221,6 +227,7 @@
 				46B04BBE284C0D3D0012B0D9 /* MaskBootcamp.swift in Sources */,
 				46684CE9284D2C040018A87E /* HashabeBootcamp.swift in Sources */,
 				4669C94C284ACE1B00BBA889 /* DragGestureBootcamp.swift in Sources */,
+				4637C1F6285186A600FC9A98 /* CoreDataContainer.xcdatamodeld in Sources */,
 				46684CEB284D353C0018A87E /* ArraysBootcamp.swift in Sources */,
 				464A8D05284A4A2200E103EE /* ContentView.swift in Sources */,
 				46B04BB8284B95360012B0D9 /* ScrollViewReaderBootcamp.swift in Sources */,
@@ -229,6 +236,7 @@
 				4669C948284AC04E00BBA889 /* MagnificationGestureBootcamp.swift in Sources */,
 				46B04BBA284BB6560012B0D9 /* GeometryReaderBootcamp.swift in Sources */,
 				46B04BC9284C1A1F0012B0D9 /* HapticsBootcamp.swift in Sources */,
+				4637C1F32851846000FC9A98 /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				46C8A552284A5751000D8E06 /* LongPressGestureBootcamp.swift in Sources */,
 				4669C94A284AC89800BBA889 /* RotationGestureBootcamp.swift in Sources */,
 			);
@@ -435,6 +443,16 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
+		4637C1F4285186A600FC9A98 /* CoreDataContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				4637C1F5285186A600FC9A98 /* CoreDataContainer.xcdatamodel */,
+			);
+			currentVersion = 4637C1F5285186A600FC9A98 /* CoreDataContainer.xcdatamodel */;
+			path = CoreDataContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
 		46AD39E328503E56001C3B96 /* FruitsContainer.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (

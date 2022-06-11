@@ -11,17 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingContinuedLearningApp: App {
     var body: some Scene {
         WindowGroup {
-            //LongPressGestureBootcamp()
-            //DragGestureBootcamp2()
-            //ScrollViewReaderBootcamp()
-            //GeometryReaderBootcamp()
-            //HapticsBootcamp()
-            //LocalNotificationsBootcamp()
-            //CoreDataBootcamp()
-            //CoreDataRelationshipsBootcamp()
-            //BackgroundThreadBootcamp()
-            //WeakSelfBootcamp()
-            CodableBootcamp()
+            DownloadWithEscapingBootcamp()
         }
     }
 }

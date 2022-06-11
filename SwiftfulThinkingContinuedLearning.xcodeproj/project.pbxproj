@@ -37,6 +37,7 @@
 		46B04BC7284C16B70012B0D9 /* moo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 46B04BC4284C16B70012B0D9 /* moo.mp3 */; };
 		46B04BC9284C1A1F0012B0D9 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B04BC8284C1A1F0012B0D9 /* HapticsBootcamp.swift */; };
 		46C8A552284A5751000D8E06 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */; };
+		46E7760E285422D9009021BC /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E7760D285422D9009021BC /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		46B04BC4284C16B70012B0D9 /* moo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moo.mp3; sourceTree = "<group>"; };
 		46B04BC8284C1A1F0012B0D9 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		46C8A551284A5751000D8E06 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		46E7760D285422D9009021BC /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				46519FA12852B66700B4DD87 /* BackgroundThreadBootcamp.swift */,
 				46519FA32852C31C00B4DD87 /* WeakSelfBootcamp.swift */,
 				46519FA52852CC1F00B4DD87 /* TypealiasBootcamp.swift */,
+				46E7760D285422D9009021BC /* EscapingBootcamp.swift */,
 				46AD39E328503E56001C3B96 /* FruitsContainer.xcdatamodeld */,
 				4637C1F4285186A600FC9A98 /* CoreDataContainer.xcdatamodeld */,
 			);
@@ -228,6 +231,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46E7760E285422D9009021BC /* EscapingBootcamp.swift in Sources */,
 				46AD39E528503E56001C3B96 /* FruitsContainer.xcdatamodeld in Sources */,
 				46B04BC0284C15850012B0D9 /* SoundsBootcamp.swift in Sources */,
 				4669C94E284AD96400BBA889 /* DragGestureBootcamp2.swift in Sources */,

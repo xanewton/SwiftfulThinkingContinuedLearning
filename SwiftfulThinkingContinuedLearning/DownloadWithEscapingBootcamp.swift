@@ -7,13 +7,13 @@
 
 import SwiftUI
 
-struct PostModel: Identifiable, Codable {
+/* struct PostModel: Identifiable, Codable {
     // You could check in https://app.quicktype.io/ to get an example of how to make a struct for a JSON object.
     let userId: Int
     let id: Int
     let title: String
     let body: String
-}
+} */
 
 class DownloadWithEscapingViewModel: ObservableObject {
     
